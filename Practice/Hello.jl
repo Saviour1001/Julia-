@@ -1,3 +1,4 @@
-println("Hello World")
-println("Yooho")
-println("Let's get started")
+function sayhi(name)
+    println("HI $name How are you ?")
+end
+sayhi("Harsh")
